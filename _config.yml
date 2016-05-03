@@ -1,5 +1,5 @@
 # Site settings
-title: 憨憨的博客
+title: Xzu Blog
 SEOTitle: 心竹的博客 | Xinzhu Blog
 header-img: img/home-bg.jpg
 email: liangyuqin1212@gmail.com
@@ -7,7 +7,7 @@ description: "关于前端与设计、黑客与画家 | 蓝岚，Web & Mobile Lo
 keyword: "蓝岚, Xinzhu Lee, Xinzhu, 鬼栈, Xinzhu, @huxpro, 蓝岚的博客, Xinzhu Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
 url: "http://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-
+port: 5000
 
 
 # SNS settings
