@@ -4,7 +4,7 @@ title:      "学习 ECharts（一）：初窥"
 subtitle:   "How powerful the Echarts is"
 date:       2016-04-19 00:12:50
 author:     "GardonLee"
-header-img: "img/post-bg-re-vs-ng2.jpg"
+header-img: "img/wallhaven-371225.jpg"
 header-mask: 0.3
 catalog:    true
 tags:

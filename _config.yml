@@ -1,17 +1,17 @@
 # Site settings
 title: Xzu Blog
-SEOTitle: 心竹的博客 | Xinzhu Blog
+SEOTitle: 心竹的博客 | Xzu Blog
 header-img: img/home-bg.jpg
 email: liangyuqin1212@gmail.com
-description: "关于前端与设计、黑客与画家 | 蓝岚，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "蓝岚, Xinzhu Lee, Xinzhu, 鬼栈, Xinzhu, @huxpro, 蓝岚的博客, Xinzhu Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
-url: "http://huangxuan.me"              # your host, for absolute URL
+description: "关于前端与设计、黑客与画家 | 心竹，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
+keyword: "会计, Xinzhu Lee, Xinzhu, 鬼栈, Xinzhu, @huxpro, 心竹的博客, Xinzhu Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
+url: "http://xinzhulee.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 port: 5000
 
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     2421924857
 zhihu_username:     蓝岚
 github_username:    XinzhuLee
@@ -70,7 +70,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，我想去看看。"
-sidebar-avatar: http://7xrvo9.com1.z0.glb.clouddn.com/%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6FILL%20%282%29.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: http://7xrvo9.com1.z0.glb.clouddn.com/Xzu.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 

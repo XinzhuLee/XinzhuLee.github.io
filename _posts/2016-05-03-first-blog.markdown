@@ -4,7 +4,7 @@ title:      "嘟嘟第一次写博客"
 subtitle:   "嘟嘟第一次写博客"
 date:       2016-05-03 12:00:00
 author:     "Xinzhu"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/0503.jpg"
 catalog: true
 tags:
     - 生活
